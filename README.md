@@ -1,12 +1,8 @@
-# Welcome to use Dynamsoft Barcode Reader - Python Edition
+# Dynamsoft Barcode Reader - Python Edition
 
 ![markdown](https://dynamsoft.github.io/styleguide/assets/img-icon/logo-dynamsoft-whiteBg-190x47.png "Dynamsoft")  | ![markdown](https://dynamsoft.github.io/styleguide/assets/img-icon/logo-dbr-88x88.png "dbr")
 
-**[Dynamsoft's Barcode Reader SDK](https://www.dynamsoft.com/Products/Dynamic-Barcode-Reader.aspx) enables you to efficiently embed barcode reading functionality in your web, desktop or mobile application using just a few lines of code. This can save you months of added development time and extra costs. With our SDK, you can create high-speed and reliable barcode scanner software to meet your business needs.**
-
-## Dynamsoft Barcode Reader - Python Edition
-
-*Dynamsoft Barcode Reader - Python Edition contains all the features of Dynamsoft Barcode Reader. It brings convenience for customers whos develop by Python. What's more, We store some examples in [Github](https://github.com/dynamsoft-dbr/python-barcode) to help you how to use it. If you have any problems, please contact us, we will provide technical support. *
+Dynamsoft Barcode Reader - Python Edition contains all the features of Dynamsoft Barcode Reader. It brings convenience for customers whos develop by Python. What's more, We store some examples in [Github](https://github.com/dynamsoft-dbr/python-barcode) to help you how to use it. If you have any problems, please contact us, we will provide technical support.
 
 ### Contact US
 <support@dynamsoft.com>
